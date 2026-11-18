@@ -17,3 +17,5 @@ exclude:
   - README.md
   - LICENSE.txt
   - CNAME
+plugins:
+  - jekyll-feed

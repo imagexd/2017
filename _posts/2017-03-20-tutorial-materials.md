@@ -99,7 +99,7 @@ pip install --upgrade package_name  # for pip
 
 Installation instructions are available [here](http://fiji.sc/#download)
 
-For this demo we will use samples that will be fetched from the [imagej.net](imagej.net) site through the application, so no separate downloads are required.
+For this demo we will use samples that will be fetched from the [imagej.net](https://imagej.net) site through the application, so no separate downloads are required.
 
 #### ImageJ Notebooks
 
