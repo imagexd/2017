@@ -11,7 +11,7 @@ with others who work on similar problems in different domains. ImageXD was
 founded by Berkeley and Washington partners from the Moore-Sloan Data Science
 Environments (MSDSE) to address these challenges.
 
-<img src="{{ site.url }}/images/group-photo.png" alt="Group" style="width: 1000px;"/>
+<img src="{{ site.baseurl }}/images/group-photo.png" alt="Group" style="width: 1000px;"/>
 
 At the inaugural ImageXD event, held at UC Berkeley’s Institute for Data Science
 (BIDS) on June 7-9, 2016, we gathered 50 researchers from 14 institutions
@@ -34,7 +34,7 @@ The ImageXD event included different emphases each day:
 
 On Day 1, the [scikit-image team](http://scikit-image.org/) provided a
 technical workshop introducing methods in python to analyze image data. Their
-[training materials](http://www.imagexd.org/tutorial/) are all openly
+[training materials](https://imagexd.github.io/tutorial/) are all openly
 available. Participants who were new to these approaches were
 also able to join a two-day
 [Software Carpentry](http://software-carpentry.org/) workshop ahead of ImageXD
@@ -115,7 +115,7 @@ Moving forward, the ImageXD organizers, [Ariel Rokem](http://arokem.org)
 seeking feedback on the inaugural event, but we are also interested in hearing
 about things that this community could do in the future (e.g., the organization
 of a similar annual event). In the interim, we are working to establish an
-online community on [www.imagexd.org](www.imagexd.org) to facilitate discussions
+online community on [imagexd.github.io](https://imagexd.github.io/) to facilitate discussions
 among image processing practitioners in different domains and different sectors,
 including academia, industry, non-profit, and government research labs. We hope
 that this combination of real-life and online forums for discussion will provide

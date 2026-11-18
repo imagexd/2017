@@ -9,7 +9,7 @@ heading: ImageXD 2017
 ## Learn
 
 **Please
-[install the required software and datasets](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
+[install the required software and datasets]({{ site.baseurl }}/2017/03/20/tutorial-materials.html)
 prior to the tutorials.**
 
 8:30 - 9:00 : Coffee

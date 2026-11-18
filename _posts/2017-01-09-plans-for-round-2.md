@@ -6,7 +6,7 @@ author: Ariel Rokem
 ---
 
 Following the success of [last year's ImageXD meeting at
-BIDS](http://www.imagexd.org/2016/06/21/inaugural-workshop.html), we are
+BIDS](https://imagexd.github.io/2016/2016/06/21/inaugural-workshop.html), we are
 organizing a second workshop at the [University of Washington eScience Institute](http://escience.washington.edu)
 March 29-31,2017.
 
